@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+body{
+    background-color: white;
+
+}
+header{
+    display: inline-flex;
+}
+div.flex{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100px;
+}
+div.flex1{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 100px;
+}
+.flex-between{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.no{
+    list-style-type: none;
+}
+.blue{
+    background-color: lightblue;
+}
+.container{
+    background-color: lightblue;
+}
+.img{
+    background-image: url(jumbo.png);
+    width: 1920px;
+    height: 1080px;
+}
+
+div.flex3{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    width: 500px;
+    padding: 10px
+}
+.blue1 {
+    background-color: lightblue;
+    margin: 10px;
+}
+.padding{
+    padding: 10px;
+}
