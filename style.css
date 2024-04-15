@@ -25,7 +25,6 @@ div.flex1{
 .flex-between{
     display: flex;
     justify-content: space-between;
-    
 }
 .no{
     list-style-type: none;
@@ -55,4 +54,72 @@ div.flex3{
 }
 .padding{
     padding: 10px;
+}
+div.column{
+    padding: 2rem;
+}
+div.column-small{
+    width: 30%;
+}
+div.column-big{
+    width: 75%;  
+}
+.flex-centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-centered-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+}
+.element {
+    width: 150px;
+    height: 150px;
+}
+.box1 {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+.box2 {
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+}
+.box3 {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+.box4 {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+}
+.box5{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+}
+.box6 {
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+}
+.box7 {
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+.box8 {
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
 }
